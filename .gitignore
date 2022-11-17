@@ -1,0 +1,5 @@
+# file by pycharm env
+.idea/
+/bin/
+/lib/
+pyvenv.cfg
